@@ -2,10 +2,10 @@
 
 The **Web Page Data Extraction System** was developed to automate the process of collecting and structuring information from web pages. It provides:
 
-- Automated extraction of relevant data from HTML content.
-- Parsing and transformation of data into structured formats (CSV, JSON, etc.).
-- Support for multiple pages and dynamic content.
-- Integration options for analytics and reporting.
+- Automated extraction of relevant data from HTML content.✔
+- Parsing and transformation of data into structured formats (CSV, Excel, etc.).✔
+- Support for multiple pages and dynamic content.✔
+- Integration options for analytics and reporting.✔
 
 This system is ideal for organizations that need accurate and efficient data collection from internal or external web sources.
 
